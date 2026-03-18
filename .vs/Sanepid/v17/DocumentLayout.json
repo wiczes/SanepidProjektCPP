@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{185D9FB5-610C-4772-BCE4-CBC09FBBA8A1}|Sanepid\\Sanepid.vcxproj|C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Lista.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{185D9FB5-610C-4772-BCE4-CBC09FBBA8A1}|Sanepid\\Sanepid.vcxproj|solutionrelative:Sanepid\\Lista.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185D9FB5-610C-4772-BCE4-CBC09FBBA8A1}|Sanepid\\Sanepid.vcxproj|C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Pacjenci.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{185D9FB5-610C-4772-BCE4-CBC09FBBA8A1}|Sanepid\\Sanepid.vcxproj|solutionrelative:Sanepid\\Pacjenci.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185D9FB5-610C-4772-BCE4-CBC09FBBA8A1}|Sanepid\\Sanepid.vcxproj|C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Wskaznik.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{185D9FB5-610C-4772-BCE4-CBC09FBBA8A1}|Sanepid\\Sanepid.vcxproj|solutionrelative:Sanepid\\Wskaznik.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185D9FB5-610C-4772-BCE4-CBC09FBBA8A1}|Sanepid\\Sanepid.vcxproj|C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Sanepid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{185D9FB5-610C-4772-BCE4-CBC09FBBA8A1}|Sanepid\\Sanepid.vcxproj|solutionrelative:Sanepid\\Sanepid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185D9FB5-610C-4772-BCE4-CBC09FBBA8A1}|Sanepid\\Sanepid.vcxproj|C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Wskaznik.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{185D9FB5-610C-4772-BCE4-CBC09FBBA8A1}|Sanepid\\Sanepid.vcxproj|solutionrelative:Sanepid\\Wskaznik.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185D9FB5-610C-4772-BCE4-CBC09FBBA8A1}|Sanepid\\Sanepid.vcxproj|C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Pacjent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{185D9FB5-610C-4772-BCE4-CBC09FBBA8A1}|Sanepid\\Sanepid.vcxproj|solutionrelative:Sanepid\\Pacjent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185D9FB5-610C-4772-BCE4-CBC09FBBA8A1}|Sanepid\\Sanepid.vcxproj|C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Pacjenci.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{185D9FB5-610C-4772-BCE4-CBC09FBBA8A1}|Sanepid\\Sanepid.vcxproj|solutionrelative:Sanepid\\Pacjenci.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185D9FB5-610C-4772-BCE4-CBC09FBBA8A1}|Sanepid\\Sanepid.vcxproj|C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Lista.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{185D9FB5-610C-4772-BCE4-CBC09FBBA8A1}|Sanepid\\Sanepid.vcxproj|solutionrelative:Sanepid\\Lista.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185D9FB5-610C-4772-BCE4-CBC09FBBA8A1}|Sanepid\\Sanepid.vcxproj|C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Pacjent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{185D9FB5-610C-4772-BCE4-CBC09FBBA8A1}|Sanepid\\Sanepid.vcxproj|solutionrelative:Sanepid\\Pacjent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pacjent.h",
+              "DocumentMoniker": "C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Pacjent.h",
+              "RelativeDocumentMoniker": "Sanepid\\Pacjent.h",
+              "ToolTip": "C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Pacjent.h",
+              "RelativeToolTip": "Sanepid\\Pacjent.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-01-17T16:57:59.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Wskaznik.cpp",
+              "DocumentMoniker": "C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Wskaznik.cpp",
+              "RelativeDocumentMoniker": "Sanepid\\Wskaznik.cpp",
+              "ToolTip": "C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Wskaznik.cpp",
+              "RelativeToolTip": "Sanepid\\Wskaznik.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-17T16:58:03.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sanepid.cpp",
+              "DocumentMoniker": "C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Sanepid.cpp",
+              "RelativeDocumentMoniker": "Sanepid\\Sanepid.cpp",
+              "ToolTip": "C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Sanepid.cpp",
+              "RelativeToolTip": "Sanepid\\Sanepid.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-17T16:58:03.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pacjent.cpp",
+              "DocumentMoniker": "C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Pacjent.cpp",
+              "RelativeDocumentMoniker": "Sanepid\\Pacjent.cpp",
+              "ToolTip": "C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Pacjent.cpp",
+              "RelativeToolTip": "Sanepid\\Pacjent.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAFgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-17T16:58:02.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pacjenci.cpp",
+              "DocumentMoniker": "C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Pacjenci.cpp",
+              "RelativeDocumentMoniker": "Sanepid\\Pacjenci.cpp",
+              "ToolTip": "C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Pacjenci.cpp",
+              "RelativeToolTip": "Sanepid\\Pacjenci.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-17T16:58:01.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lista.cpp",
+              "DocumentMoniker": "C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Lista.cpp",
+              "RelativeDocumentMoniker": "Sanepid\\Lista.cpp",
+              "ToolTip": "C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Lista.cpp",
+              "RelativeToolTip": "Sanepid\\Lista.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-17T15:34:29.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wskaznik.h",
+              "DocumentMoniker": "C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Wskaznik.h",
+              "RelativeDocumentMoniker": "Sanepid\\Wskaznik.h",
+              "ToolTip": "C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Wskaznik.h",
+              "RelativeToolTip": "Sanepid\\Wskaznik.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-01-17T16:58:00.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pacjenci.h",
+              "DocumentMoniker": "C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Pacjenci.h",
+              "RelativeDocumentMoniker": "Sanepid\\Pacjenci.h",
+              "ToolTip": "C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Pacjenci.h",
+              "RelativeToolTip": "Sanepid\\Pacjenci.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-01-17T16:57:59.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lista.h",
+              "DocumentMoniker": "C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Lista.h",
+              "RelativeDocumentMoniker": "Sanepid\\Lista.h",
+              "ToolTip": "C:\\Users\\wikto\\source\\repos\\sem3\\Projekt\\Sanepid\\Sanepid\\Lista.h",
+              "RelativeToolTip": "Sanepid\\Lista.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-01-17T16:57:58.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
